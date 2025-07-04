@@ -1,12 +1,12 @@
-# 🛒 Fawry Quantum Internship Challenge 3 – E-Commerce
+# Fawry Quantum Internship Challenge 3 – E-Commerce
 
 This project is a **CLI-based e-commerce system** built with **Node.js (ES6 syntax)**.
 
 It allows a customer to:
-- ✅ Add products to a cart
-- ✅ Proceed to checkout
-- ✅ Handle shippable and expirable items
-- ✅ Receive receipt and shipping summary
+- Add products to a cart
+- Proceed to checkout
+- Handle shippable and expirable items
+- Receive receipt and shipping summary
 
 ---
 
@@ -33,30 +33,15 @@ fawry/
 
 ---
 
-## 🚀 Setup & Run Instructions
+## Setup & Run Instructions
 
 ### 1. Clone the Project (or Download ZIP)
 ```bash
-git clone https://github.com/yourusername/fawry-ecommerce.git
+git clone https://github.com/karimmohammed155/FawryEcommerce.git
 cd fawry
 ```
 
-### 2. Add `"type": "module"` to `package.json`
-This enables ECMAScript 6 modules in Node.js.
-
-```json
-{
-  "name": "fawry",
-  "version": "1.0.0",
-  "type": "module",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  }
-}
-```
-
-### 3. Run the Application
+### 2. Run the Application
 ```bash
 npm start
 ```
